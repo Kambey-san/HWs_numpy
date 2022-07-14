@@ -1,2 +1,2 @@
 # HWs_numpy
-My numpy codes
+My numpy code for Lesson_4_Task_3
