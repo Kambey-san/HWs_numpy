@@ -2,4 +2,4 @@
 My numpy codes
 Введение в высшую математику
 Практическое задание №5
-Changed 2 files
+Changed 2 files.
